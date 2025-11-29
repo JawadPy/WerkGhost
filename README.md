@@ -1,6 +1,8 @@
 # WerkGhost
 
-<img width="636" height="219" alt="image" src="https://github.com/user-attachments/assets/596eca60-a2d9-4aa3-9f4e-ad8b98779e29" />
+<img width="563" height="194" alt="image" src="https://github.com/user-attachments/assets/4b0a3ffa-7187-48c1-83e7-c33d10812509" />
+
+
 
 Exploit for Werkzeug &lt; 3.1.4 ([CVE-2025-66221](https://nvd.nist.gov/vuln/detail/CVE-2025-66221))
 
