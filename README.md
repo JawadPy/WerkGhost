@@ -1,4 +1,7 @@
 # WerkGhost
+
+<img width="636" height="219" alt="image" src="https://github.com/user-attachments/assets/596eca60-a2d9-4aa3-9f4e-ad8b98779e29" />
+
 Exploit for Werkzeug &lt; 3.1.4 (CVE-2025-66221)
 
 # Disclaimer
