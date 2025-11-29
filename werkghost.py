@@ -28,7 +28,7 @@ BANNER = r"""
 ██ ▄█▄ ██ ██▄▄  ██▄█▄ ██▄█▀ ██  ▄▄▄ ██▄██ ██▀██ ███▄▄   ██   
  ▀██▀██▀  ██▄▄▄ ██ ██ ██ ██  ▀███▀  ██ ██ ▀███▀ ▄▄██▀   ██   
                                                              
-Exploit for Werkzeug < 3.1.4 (CVE-2023-46136)
+Exploit for Werkzeug < 3.1.4 (CVE-2025-66221)
 Github/LinkedIn: JawadPy 
 """
 
@@ -102,4 +102,5 @@ def main():
         print("[*] The server appears unexploitable, perhaps you need to increase --threads.")
 
 if __name__ == '__main__':
+
     main()
